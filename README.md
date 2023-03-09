@@ -1,1 +1,1 @@
-# logica
+repositorios para as aulas da diciplina poo(linguagem de programaçao orientada a objetos
